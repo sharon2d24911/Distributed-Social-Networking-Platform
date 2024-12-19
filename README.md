@@ -6,7 +6,9 @@ CMPUT404-project-socialdistribution
 
 See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
 
-Make a distributed social network!
+Make a distributed social network!  
+
+Check out the [Promotional Video](https://www.youtube.com/watch?v=SUNmKCo9FkE)!   
 
 ## Copyright
 
